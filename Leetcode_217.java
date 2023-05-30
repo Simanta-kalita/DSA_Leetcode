@@ -16,3 +16,5 @@ class Solution {
         return false;
     }
 }
+
+// using HashSet looks like a better solution
